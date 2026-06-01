@@ -1,9 +1,5 @@
-# hikvision-cloud-streaming-app
-This is an app for streaming video
 # Hikvision Cloud Streaming App
-
 A cross-platform mobile app (Flutter) + backend to stream Hikvision cameras securely over the cloud using HLS/WebRTC.
-
 ## Features
 - Live streaming from Hikvision cameras
 - Cloud architecture (MediaMTX)
