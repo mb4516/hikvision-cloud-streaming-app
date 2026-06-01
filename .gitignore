@@ -1,0 +1,23 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/logs/
+
+# Flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.metadata
+frontend/.pub-cache/
+frontend/ios/Pods/
+frontend/ios/.symlinks/
+frontend/ios/Flutter/App.framework/
+frontend/ios/Flutter/Flutter.framework/
+frontend/android/.gradle/
+frontend/android/app/build/
+
+# General
+.env
+*.log
+.DS_Store
+Thumbs.db
